@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\ConsoleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\ConsoleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|solutionrelative:ConsoleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "ConsoleCalculator.cpp",
               "ToolTip": "C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\ConsoleCalculator.cpp",
               "RelativeToolTip": "ConsoleCalculator.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-26T22:32:18.536Z",
+              "WhenOpened": "2025-01-29T14:46:46.381Z",
               "EditorCaption": ""
             }
           ]
