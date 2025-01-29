@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|solutionrelative:ConsoleCalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|solutionrelative:Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|solutionrelative:Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7738949-2ADA-4CD7-AFAE-6FBFF1770728}|ConsoleCalculator.vcxproj|solutionrelative:Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Calculator.cpp",
               "DocumentMoniker": "C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\Calculator.cpp",
               "RelativeDocumentMoniker": "Calculator.cpp",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Calculator.h",
               "DocumentMoniker": "C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\Calculator.h",
               "RelativeDocumentMoniker": "Calculator.h",
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "ConsoleCalculator.cpp",
               "ToolTip": "C:\\Users\\jakew\\Projects\\ConsoleCalculator\\ConsoleCalculator\\ConsoleCalculator.cpp",
               "RelativeToolTip": "ConsoleCalculator.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-29T14:46:46.381Z",
               "EditorCaption": ""
